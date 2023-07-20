@@ -3887,13 +3887,13 @@ textarea.s-input {
     border-color: #414042;
     border-color: #058a05;
     background-color: #414042;
-    background-color: #058a05;
+    background-color: #8BC34A;
     color: #ff6767;
-    color: var(--color-primary-reverse)
+    color: #fff
 }
 
 .s-button-primary:hover {
-    background-color: #7cf77c
+    background-color: #87f436
 }
 
 .s-button-success {
