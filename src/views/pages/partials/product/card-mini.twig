@@ -15,7 +15,7 @@
           class="btn--wishlist animated"
           onclick="salla.wishlist.toggle({{ product.id }})"
           data-id="{{ product.id }}">
-          <i class="sicon-hearts"></i>
+           {{ product.add_to_cart_label }}
       </salla-button>
 
       {% if product.rating %}
