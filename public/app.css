@@ -3889,7 +3889,7 @@ textarea.s-input {
     background-color: #414042;
     background-color: #058a05;
     color: #ff6767;
-    color: #fff
+    color: var(--color-primary-reverse)
 }
 
 .s-button-primary:hover {
