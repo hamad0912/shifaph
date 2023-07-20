@@ -4026,9 +4026,9 @@ textarea.s-input {
     background-color: #414042;
     background-color: var(--color-primary);
     fill: #ff6767;
-    fill: var(--color-primary-reverse);
+/*     fill: var(--color-primary-reverse); */
     color: #ff6767;
-    color: var(--color-primary-reverse)
+/*     color: var(--color-primary-reverse) */
 }
 
 .s-button-success-outline {
