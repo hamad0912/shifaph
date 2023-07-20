@@ -9276,7 +9276,7 @@ special .s-product-card-content-sub {
 
 .s-product-card-content-title a:hover {
     color: #414042;
-    color: var(--color-primary)
+    color: #fff
 }
 
 .s-product-card-content-sub {
