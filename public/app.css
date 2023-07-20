@@ -4006,7 +4006,7 @@ textarea.s-input {
     background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
     --tw-text-opacity: 1;
     color: rgba(156, 163, 175, 1);
-    color: rgba(156, 163, 175, var(--tw-text-opacity))
+    color: rgba(0, 0, 0)
 }
 
 .s-button-light:hover {
@@ -9017,8 +9017,8 @@ input[type=radio].sr-only:checked~div.s-product-card-minimal .s-product-card-wis
 
 .s-product-card-vertical .s-product-card-wishlist-btn button {
     --tw-bg-opacity: 1 !important;
-    background-color: rgba(255, 255, 255, 1) !important;
-    background-color: rgba(255, 255, 255, var(--tw-bg-opacity)) !important
+    background-color: rgba(232, 105, 105, 1) !important;
+/*     background-color: rgba(255, 255, 255, var(--tw-bg-opacity)) !important */
 }
 
 .s-product-card-vertical .s-product-card-wishlist-btn button {
