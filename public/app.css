@@ -4025,9 +4025,9 @@ textarea.s-input {
 .s-button-primary-outline:hover {
     background-color: #414042;
     background-color: #602984;
-    fill: #ff6767;
+    fill: #fff;
 /*     fill: var(--color-primary-reverse); */
-    color: #ff6767;
+    color: #fff;
 /*     color: var(--color-primary-reverse) */
 }
 
