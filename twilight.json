@@ -728,6 +728,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "f4feaebd-2266-4ca8-94f7-ee81c32b3775",
+            "title": "flashSales",
+            "icon": "sicon-store",
+            "path": "home.flash_sales",
+            "fields": []
         }
     ],
     "support_url": "http://shifa-ph.com/",
