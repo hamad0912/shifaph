@@ -734,7 +734,24 @@
             "title": "flashSales",
             "icon": "sicon-store",
             "path": "home.flash_sales",
-            "fields": []
+            "fields": [
+                {
+                    "id": "flash_sales_title",
+                    "key": "d9e7c9f7-1912-49a5-94dd-9a8a277fcf20",
+                    "type": "string",
+                    "format": "text",
+                    "label": "عنوان القسم",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "Placeholder text ..",
+                    "icon": "sicon-format-text-alt",
+                    "value": null,
+                    "multilanguage": false,
+                    "required": true,
+                    "minLength": "3",
+                    "maxLength": 30
+                }
+            ]
         }
     ],
     "support_url": "http://shifa-ph.com/",
