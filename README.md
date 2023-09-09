@@ -1,1 +1,2 @@
-<a href="https://shifa-ph.com">our sotre</a> · 
+<a href="https://shifa-ph.com">https://shifa-ph.com</a> · 
+
